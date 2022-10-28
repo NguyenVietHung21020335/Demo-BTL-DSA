@@ -174,6 +174,7 @@ void XuatStack(STACK &s)
  
 int main()
 {
+
     // Mãi iu 2 thầy ạ :3333333
     STACK s;
     KhoiTaoStack(s);
